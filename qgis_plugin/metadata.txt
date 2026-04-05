@@ -1,0 +1,19 @@
+[general]
+name=Acoustik
+qgisMinimumVersion=3.16
+description=Плагин для интеграции с приложением Акустик. Загружает источники шума, расчётные точки и изолинии уровней звука из API Акустик.
+version=1.0.0
+author=YuliyaSkryabina
+email=sya150181@gmail.com
+about=Подключается к локальному API-серверу приложения Акустик (http://localhost:8765) и загружает данные акустического расчёта в виде слоёв QGIS. Поддерживает отображение изолиний уровней шума с цветовым кодированием превышений ПДУ.
+tracker=https://github.com/YuliyaSkryabina/acoustik/issues
+repository=https://github.com/YuliyaSkryabina/acoustik
+hasProcessingProvider=no
+changelog=
+    1.0.0 - Первый релиз: загрузка источников, точек, изолиний
+tags=acoustics,noise,environment
+homepage=https://github.com/YuliyaSkryabina/acoustik
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
