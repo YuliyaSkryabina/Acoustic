@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "acoustik": {
+      "url": "http://localhost:8765/mcp",
+      "transport": "http",
+      "description": "Акустик — расчёт уровней шума по СП 51.13330.2011"
+    }
+  }
+}
